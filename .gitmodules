@@ -1,3 +1,6 @@
 [submodule "arduino-non-blocking-button"]
 	path = arduino-non-blocking-button
 	url = https://github.com/scott-linenberger/arduino-non-blocking-button
+[submodule "ESPTelemetryNode"]
+	path = ESPTelemetryNode
+	url = https://github.com/scott-linenberger/ESP-Telemetry-Node
