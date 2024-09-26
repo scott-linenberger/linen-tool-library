@@ -4,3 +4,6 @@
 [submodule "ESPTelemetryNode"]
 	path = ESPTelemetryNode
 	url = https://github.com/scott-linenberger/ESP-Telemetry-Node
+[submodule "RunnableLed"]
+	path = RunnableLed
+	url = https://github.com/scott-linenberger/RunnableLed
