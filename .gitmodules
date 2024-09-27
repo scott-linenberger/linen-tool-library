@@ -7,3 +7,6 @@
 [submodule "RunnableLed"]
 	path = RunnableLed
 	url = https://github.com/scott-linenberger/RunnableLed
+[submodule "ArduinoDebugLogger"]
+	path = ArduinoDebugLogger
+	url = https://github.com/scott-linenberger/ArduinoDebugLogger
