@@ -10,3 +10,6 @@
 [submodule "ArduinoDebugLogger"]
 	path = ArduinoDebugLogger
 	url = https://github.com/scott-linenberger/ArduinoDebugLogger
+[submodule "TelemetryMetricTempDS18B20"]
+	path = TelemetryMetricTempDS18B20
+	url = https://github.com/scott-linenberger/TelemetryMetricTempDS18B20
