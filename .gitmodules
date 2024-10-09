@@ -13,3 +13,12 @@
 [submodule "TelemetryMetricTempDS18B20"]
 	path = TelemetryMetricTempDS18B20
 	url = https://github.com/scott-linenberger/TelemetryMetricTempDS18B20
+[submodule "TelemetryMetricSwitchState"]
+	path = TelemetryMetricSwitchState
+	url = https://github.com/scott-linenberger/TelemetryMetricSwitchState
+[submodule "TelemetryMetricAnalogInput"]
+	path = TelemetryMetricAnalogInput
+	url = https://github.com/scott-linenberger/TelemetryMetricAnalogInput
+[submodule "TelemetryMetricReporter"]
+	path = TelemetryMetricReporter
+	url = https://github.com/scott-linenberger/TelemetryMetricReporter
