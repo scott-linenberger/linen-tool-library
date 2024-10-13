@@ -22,3 +22,6 @@
 [submodule "TelemetryMetricReporter"]
 	path = TelemetryMetricReporter
 	url = https://github.com/scott-linenberger/TelemetryMetricReporter
+[submodule "PixelUnit"]
+	path = PixelUnit
+	url = https://github.com/scott-linenberger/PixelUnit
